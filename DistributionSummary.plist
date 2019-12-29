@@ -8,7 +8,6 @@
 			<key>architectures</key>
 			<array>
 				<string>armv7</string>
-				<string>arm64</string>
 			</array>
 			<key>certificate</key>
 			<dict>
@@ -25,7 +24,6 @@
 					<key>architectures</key>
 					<array>
 						<string>armv7</string>
-						<string>arm64</string>
 					</array>
 					<key>certificate</key>
 					<dict>
@@ -50,7 +48,6 @@
 					<key>architectures</key>
 					<array>
 						<string>armv7</string>
-						<string>arm64</string>
 					</array>
 					<key>certificate</key>
 					<dict>
@@ -75,7 +72,6 @@
 					<key>architectures</key>
 					<array>
 						<string>armv7</string>
-						<string>arm64</string>
 					</array>
 					<key>certificate</key>
 					<dict>
@@ -100,7 +96,6 @@
 					<key>architectures</key>
 					<array>
 						<string>armv7</string>
-						<string>arm64</string>
 					</array>
 					<key>certificate</key>
 					<dict>
@@ -125,7 +120,6 @@
 					<key>architectures</key>
 					<array>
 						<string>armv7</string>
-						<string>arm64</string>
 					</array>
 					<key>certificate</key>
 					<dict>
@@ -150,7 +144,6 @@
 					<key>architectures</key>
 					<array>
 						<string>armv7</string>
-						<string>arm64</string>
 					</array>
 					<key>certificate</key>
 					<dict>
@@ -175,7 +168,6 @@
 					<key>architectures</key>
 					<array>
 						<string>armv7</string>
-						<string>arm64</string>
 					</array>
 					<key>certificate</key>
 					<dict>
@@ -200,7 +192,6 @@
 					<key>architectures</key>
 					<array>
 						<string>armv7</string>
-						<string>arm64</string>
 					</array>
 					<key>certificate</key>
 					<dict>
@@ -225,7 +216,6 @@
 					<key>architectures</key>
 					<array>
 						<string>armv7</string>
-						<string>arm64</string>
 					</array>
 					<key>certificate</key>
 					<dict>
@@ -250,7 +240,6 @@
 					<key>architectures</key>
 					<array>
 						<string>armv7</string>
-						<string>arm64</string>
 					</array>
 					<key>certificate</key>
 					<dict>
@@ -275,7 +264,6 @@
 					<key>architectures</key>
 					<array>
 						<string>armv7</string>
-						<string>arm64</string>
 					</array>
 					<key>certificate</key>
 					<dict>
@@ -300,7 +288,6 @@
 					<key>architectures</key>
 					<array>
 						<string>armv7</string>
-						<string>arm64</string>
 					</array>
 					<key>certificate</key>
 					<dict>
@@ -325,7 +312,6 @@
 					<key>architectures</key>
 					<array>
 						<string>armv7</string>
-						<string>arm64</string>
 					</array>
 					<key>certificate</key>
 					<dict>
@@ -350,7 +336,30 @@
 					<key>architectures</key>
 					<array>
 						<string>armv7</string>
-						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>460725FC595872206E2887E639B08CB230A53252</string>
+						<key>dateExpires</key>
+						<string>2020/11/30</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>flutter_custom_dialog.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>4UD9647QRK</string>
+						<key>name</key>
+						<string>Baocang Nie</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
 					</array>
 					<key>certificate</key>
 					<dict>
@@ -375,7 +384,6 @@
 					<key>architectures</key>
 					<array>
 						<string>armv7</string>
-						<string>arm64</string>
 					</array>
 					<key>certificate</key>
 					<dict>
@@ -400,7 +408,6 @@
 					<key>architectures</key>
 					<array>
 						<string>armv7</string>
-						<string>arm64</string>
 					</array>
 					<key>certificate</key>
 					<dict>
@@ -425,7 +432,6 @@
 					<key>architectures</key>
 					<array>
 						<string>armv7</string>
-						<string>arm64</string>
 					</array>
 					<key>certificate</key>
 					<dict>
@@ -450,7 +456,6 @@
 					<key>architectures</key>
 					<array>
 						<string>armv7</string>
-						<string>arm64</string>
 					</array>
 					<key>certificate</key>
 					<dict>
@@ -475,7 +480,6 @@
 					<key>architectures</key>
 					<array>
 						<string>armv7</string>
-						<string>arm64</string>
 					</array>
 					<key>certificate</key>
 					<dict>
@@ -500,7 +504,6 @@
 					<key>architectures</key>
 					<array>
 						<string>armv7</string>
-						<string>arm64</string>
 					</array>
 					<key>certificate</key>
 					<dict>
