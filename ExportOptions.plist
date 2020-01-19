@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://raw.githubusercontent.com/baocang/russellme-releases/0.0.1-3/Apps/RussellMe.ipa</string>
+		<string>https://raw.githubusercontent.com/baocang/russellme-releases/0.0.1-4/Apps/RussellMe.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://raw.githubusercontent.com/baocang/russellme-releases/0.0.1-3/Assets/Image57x57.png</string>
+		<string>https://raw.githubusercontent.com/baocang/russellme-releases/0.0.1-4/Assets/Image57x57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://raw.githubusercontent.com/baocang/russellme-releases/0.0.1-3/Assets/Image512x512.png</string>
+		<string>https://raw.githubusercontent.com/baocang/russellme-releases/0.0.1-4/Assets/Image512x512.png</string>
 	</dict>
 	<key>method</key>
 	<string>development</string>

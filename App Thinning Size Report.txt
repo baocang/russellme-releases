@@ -1,106 +1,106 @@
 
 App Thinning Size Report for All Variants of RussellMe
 
-Variant: RussellMe-0546D645-F8ED-49AE-82DB-2EAF45430469.ipa
-Supported variant descriptors: [device: iPhone9,4, os-version: 12.2], [device: iPhone10,2, os-version: 12.2], [device: iPhone10,3, os-version: 12.2], [device: iPhone10,2, os-version: 12.0], [device: iPhone9,2, os-version: 12.0], [device: iPhone11,2, os-version: 12.0], [device: iPhone11,6, os-version: 12.0], [device: iPhone10,5, os-version: 12.0], [device: iPhone8,2, os-version: 12.0], [device: iPhone11,2, os-version: 12.2], [device: iPhone10,6, os-version: 12.0], [device: iPhone9,4, os-version: 12.0], [device: iPhone7,1, os-version: 12.0], [device: iPhone10,3, os-version: 12.0], [device: iPhone10,6, os-version: 12.2], [device: iPhone11,4, os-version: 12.2], [device: iPhone11,6, os-version: 12.2], [device: iPhone10,5, os-version: 12.2], [device: iPhone7,1, os-version: 12.2], [device: iPhone8,2, os-version: 12.2], [device: iPhone11,4, os-version: 12.0], and [device: iPhone9,2, os-version: 12.2]
-App + On Demand Resources size: 41 MB compressed, 61.3 MB uncompressed
-App size: 41 MB compressed, 61.3 MB uncompressed
+Variant: RussellMe-01403218-5AFE-476D-8B1D-C81847E62497.ipa
+Supported variant descriptors: [device: iPhone4,1, os-version: 9.0], [device: iPhone5,1, os-version: 9.0], [device: iPhone5,2, os-version: 9.0], [device: iPhone5,3, os-version: 9.0], [device: iPhone5,4, os-version: 9.0], and [device: iPod5,1, os-version: 9.0]
+App + On Demand Resources size: 41.5 MB compressed, 59.2 MB uncompressed
+App size: 41.5 MB compressed, 59.2 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: RussellMe-57C7E507-BF84-4C00-B7DC-40BBF5C3AC56.ipa
-Supported variant descriptors: [device: iPhone8,1, os-version: 12.2], [device: iPod9,1, os-version: 12.2], [device: iPhone9,3, os-version: 12.2], [device: iPhone10,1, os-version: 12.2], [device: iPhone9,3, os-version: 12.0], [device: iPhone8,1, os-version: 12.0], [device: iPhone10,4, os-version: 12.0], [device: iPhone10,1, os-version: 12.0], [device: iPhone6,1, os-version: 12.2], [device: iPhone9,1, os-version: 12.0], [device: iPhone7,2, os-version: 12.2], [device: iPhone6,1, os-version: 12.0], [device: iPhone6,2, os-version: 12.2], [device: iPhone9,1, os-version: 12.2], [device: iPhone10,4, os-version: 12.2], [device: iPhone7,2, os-version: 12.0], [device: iPod7,1, os-version: 12.2], [device: iPod7,1, os-version: 12.0], [device: iPhone8,4, os-version: 12.2], [device: iPhone6,2, os-version: 12.0], and [device: iPhone8,4, os-version: 12.0]
-App + On Demand Resources size: 41 MB compressed, 61.3 MB uncompressed
-App size: 41 MB compressed, 61.3 MB uncompressed
+Variant: RussellMe-0A90FD58-B471-4526-9471-789AB96D889A.ipa
+Supported variant descriptors: [device: iPhone10,3, os-version: 13.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone12,5, os-version: 13.0], [device: iPhone10,6, os-version: 13.0], [device: iPhone8,2, os-version: 13.0], [device: iPhone11,2, os-version: 13.0], [device: iPhone9,4, os-version: 13.0], [device: iPhone11,6, os-version: 13.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone12,3, os-version: 13.0], [device: iPhone11,4, os-version: 13.0], and [device: iPhone10,5, os-version: 13.0]
+App + On Demand Resources size: 41.2 MB compressed, 61.5 MB uncompressed
+App size: 41.2 MB compressed, 61.5 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: RussellMe-6917DA47-1ED8-4673-B96F-C9DD643EF68F.ipa
-Supported variant descriptors: [device: iPhone9,3, os-version: 10.0], [device: iPhone8,1, os-version: 9.0], [device: iPhone6,2, os-version: 9.0], [device: iPhone9,1, os-version: 10.0], [device: iPhone8,4, os-version: 9.0], [device: iPod7,1, os-version: 9.0], [device: iPhone10,1, os-version: 11.0], [device: iPhone7,2, os-version: 9.0], [device: iPhone10,4, os-version: 11.0], and [device: iPhone6,1, os-version: 9.0]
-App + On Demand Resources size: 41 MB compressed, 61.3 MB uncompressed
-App size: 41 MB compressed, 61.3 MB uncompressed
+Variant: RussellMe-0BB8F731-1526-43D7-87C5-6063D8E2F609.ipa
+Supported variant descriptors: [device: iPhone10,3, os-version: 11.0], [device: iPhone9,2, os-version: 10.0], [device: iPhone8,2, os-version: 9.0], [device: iPhone10,6, os-version: 11.0], [device: iPhone7,1, os-version: 9.0], [device: iPhone10,2, os-version: 11.0], [device: iPhone10,5, os-version: 11.0], and [device: iPhone9,4, os-version: 10.0]
+App + On Demand Resources size: 41.2 MB compressed, 61.5 MB uncompressed
+App size: 41.2 MB compressed, 61.5 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: RussellMe-78F9E677-3E2F-4A23-BBE6-4B27D1036741.ipa
-Supported variant descriptors: [device: iPhone12,1, os-version: 13.0] and [device: iPhone11,8, os-version: 13.0]
-App + On Demand Resources size: 41 MB compressed, 61.3 MB uncompressed
-App size: 41 MB compressed, 61.3 MB uncompressed
+Variant: RussellMe-1CB5CB35-26B4-4391-98BD-AC1BF6DA3A1A.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 9.0], [device: iPhone10,4, os-version: 11.0], [device: iPhone6,1, os-version: 9.0], [device: iPhone7,2, os-version: 9.0], [device: iPod7,1, os-version: 9.0], [device: iPhone9,1, os-version: 10.0], [device: iPhone9,3, os-version: 10.0], [device: iPhone8,1, os-version: 9.0], [device: iPhone10,1, os-version: 11.0], and [device: iPhone6,2, os-version: 9.0]
+App + On Demand Resources size: 41.2 MB compressed, 61.5 MB uncompressed
+App size: 41.2 MB compressed, 61.5 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: RussellMe-8332DB12-AFB9-4B89-A421-2F7C8651AD8F.ipa
-Supported variant descriptors: [device: iPhone12,3, os-version: 13.0], [device: iPhone9,4, os-version: 13.0], [device: iPhone11,2, os-version: 13.0], [device: iPhone10,3, os-version: 13.0], [device: iPhone11,6, os-version: 13.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone12,5, os-version: 13.0], [device: iPhone10,5, os-version: 13.0], [device: iPhone10,6, os-version: 13.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone8,2, os-version: 13.0], and [device: iPhone11,4, os-version: 13.0]
-App + On Demand Resources size: 41 MB compressed, 61.3 MB uncompressed
-App size: 41 MB compressed, 61.3 MB uncompressed
+Variant: RussellMe-2CD0ACB1-8142-4BAA-8BBE-3CBDB07CB2B8.ipa
+Supported variant descriptors: [device: iPad8,6, os-version: 12.0], [device: iPad11,3, os-version: 12.2], [device: iPad6,8, os-version: 12.0], [device: iPad4,2, os-version: 12.0], [device: iPad8,7, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad8,1, os-version: 12.2], [device: iPad6,8, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPad4,5, os-version: 12.2], [device: iPad8,2, os-version: 12.0], [device: iPad5,4, os-version: 12.0], [device: iPad7,5, os-version: 12.0], [device: iPad8,7, os-version: 12.0], [device: iPad7,3, os-version: 12.0], [device: iPad8,3, os-version: 12.2], [device: iPad4,3, os-version: 12.2], [device: iPad5,1, os-version: 12.2], [device: iPad4,4, os-version: 12.0], [device: iPad8,5, os-version: 12.0], [device: iPad4,7, os-version: 12.0], [device: iPad4,9, os-version: 12.2], [device: iPad7,2, os-version: 12.2], [device: iPad6,4, os-version: 12.0], [device: iPad4,9, os-version: 12.0], [device: iPad7,3, os-version: 12.2], [device: iPad8,2, os-version: 12.2], [device: iPad8,4, os-version: 12.0], [device: iPad4,1, os-version: 12.0], [device: iPad8,4, os-version: 12.2], [device: iPad8,3, os-version: 12.0], [device: iPad5,3, os-version: 12.2], [device: iPad7,4, os-version: 12.2], [device: iPad6,12, os-version: 12.2], [device: iPad6,3, os-version: 12.2], [device: iPad4,7, os-version: 12.2], [device: iPad7,1, os-version: 12.0], [device: iPad7,5, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad5,1, os-version: 12.0], [device: iPad5,3, os-version: 12.0], [device: iPad7,2, os-version: 12.0], [device: iPad4,5, os-version: 12.0], [device: iPad4,6, os-version: 12.0], [device: iPad8,8, os-version: 12.0], [device: iPad6,11, os-version: 12.0], [device: iPad11,4, os-version: 12.2], [device: iPad11,2, os-version: 12.2], [device: iPad5,4, os-version: 12.2], [device: iPad7,1, os-version: 12.2], [device: iPad6,11, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPad4,8, os-version: 12.0], [device: iPad6,3, os-version: 12.0], [device: iPad8,5, os-version: 12.2], [device: iPad4,3, os-version: 12.0], [device: iPad8,8, os-version: 12.2], [device: iPad6,7, os-version: 12.0], [device: iPad4,4, os-version: 12.2], [device: iPad5,2, os-version: 12.0], [device: iPad7,6, os-version: 12.0], [device: iPad4,1, os-version: 12.2], [device: iPad7,4, os-version: 12.0], [device: iPad8,6, os-version: 12.2], [device: iPad6,12, os-version: 12.0], [device: iPad6,7, os-version: 12.2], [device: iPad8,1, os-version: 12.0], [device: iPad4,2, os-version: 12.2], [device: iPad4,8, os-version: 12.2], and [device: iPad5,2, os-version: 12.2]
+App + On Demand Resources size: 41.2 MB compressed, 61.5 MB uncompressed
+App size: 41.2 MB compressed, 61.5 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: RussellMe-89432ED4-59D3-4F22-BA0E-E63EBEF62D66.ipa
-Supported variant descriptors: [device: iPad3,6, os-version: 9.0], [device: iPad3,1, os-version: 9.0], [device: iPad3,4, os-version: 9.0], [device: iPad3,3, os-version: 9.0], [device: iPad3,5, os-version: 9.0], and [device: iPad3,2, os-version: 9.0]
-App + On Demand Resources size: 41.3 MB compressed, 58.9 MB uncompressed
-App size: 41.3 MB compressed, 58.9 MB uncompressed
+Variant: RussellMe-5B758D18-64CA-45A2-8DE9-6023D6BA749C.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.0] and [device: iPhone11,8, os-version: 12.2]
+App + On Demand Resources size: 41.2 MB compressed, 61.5 MB uncompressed
+App size: 41.2 MB compressed, 61.5 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: RussellMe-9241F67C-D731-4626-AC27-4A6B13A23537.ipa
-Supported variant descriptors: [device: iPad7,6, os-version: 11.0], [device: iPad4,4, os-version: 9.0], [device: iPad7,2, os-version: 10.0], [device: iPad6,3, os-version: 9.0], [device: iPad6,4, os-version: 9.0], [device: iPad7,4, os-version: 10.0], [device: iPad6,12, os-version: 10.0], [device: iPad5,2, os-version: 9.0], [device: iPad5,1, os-version: 9.0], [device: iPad7,1, os-version: 10.0], [device: iPad6,11, os-version: 10.0], [device: iPad6,8, os-version: 9.0], [device: iPad4,8, os-version: 9.0], [device: iPad4,3, os-version: 9.0], [device: iPad4,7, os-version: 9.0], [device: iPad7,3, os-version: 10.0], [device: iPad4,1, os-version: 9.0], [device: iPad4,2, os-version: 9.0], [device: iPad4,6, os-version: 9.0], [device: iPad4,5, os-version: 9.0], [device: iPad6,7, os-version: 9.0], [device: iPad4,9, os-version: 9.0], [device: iPad7,5, os-version: 11.0], [device: iPad5,3, os-version: 9.0], and [device: iPad5,4, os-version: 9.0]
-App + On Demand Resources size: 41 MB compressed, 61.3 MB uncompressed
-App size: 41 MB compressed, 61.3 MB uncompressed
+Variant: RussellMe-5D36C1D0-B14F-4A14-B94A-BA617D5E9BF6.ipa
+Supported variant descriptors: [device: iPhone7,1, os-version: 12.2], [device: iPhone10,3, os-version: 12.0], [device: iPhone10,6, os-version: 12.2], [device: iPhone11,6, os-version: 12.2], [device: iPhone10,6, os-version: 12.0], [device: iPhone11,2, os-version: 12.2], [device: iPhone9,2, os-version: 12.0], [device: iPhone10,3, os-version: 12.2], [device: iPhone11,4, os-version: 12.2], [device: iPhone10,5, os-version: 12.2], [device: iPhone9,4, os-version: 12.0], [device: iPhone8,2, os-version: 12.0], [device: iPhone9,2, os-version: 12.2], [device: iPhone11,4, os-version: 12.0], [device: iPhone8,2, os-version: 12.2], [device: iPhone10,2, os-version: 12.2], [device: iPhone11,2, os-version: 12.0], [device: iPhone11,6, os-version: 12.0], [device: iPhone10,2, os-version: 12.0], [device: iPhone9,4, os-version: 12.2], [device: iPhone10,5, os-version: 12.0], and [device: iPhone7,1, os-version: 12.0]
+App + On Demand Resources size: 41.2 MB compressed, 61.5 MB uncompressed
+App size: 41.2 MB compressed, 61.5 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: RussellMe-9BDAA6FA-1B1F-4B94-B8E8-2174D1DBC647.ipa
-Supported variant descriptors: [device: iPad2,6, os-version: 9.0], [device: iPad2,3, os-version: 9.0], [device: iPad2,5, os-version: 9.0], [device: iPad2,1, os-version: 9.0], [device: iPad2,4, os-version: 9.0], [device: iPad2,2, os-version: 9.0], and [device: iPad2,7, os-version: 9.0]
-App + On Demand Resources size: 41.3 MB compressed, 58.9 MB uncompressed
-App size: 41.3 MB compressed, 58.9 MB uncompressed
+Variant: RussellMe-642FE00A-97E5-4380-940E-6FD79B458DF6.ipa
+Supported variant descriptors: [device: iPad4,3, os-version: 9.0], [device: iPad4,5, os-version: 9.0], [device: iPad7,5, os-version: 11.0], [device: iPad6,4, os-version: 9.0], [device: iPad4,6, os-version: 9.0], [device: iPad4,8, os-version: 9.0], [device: iPad4,1, os-version: 9.0], [device: iPad5,3, os-version: 9.0], [device: iPad7,1, os-version: 10.0], [device: iPad5,2, os-version: 9.0], [device: iPad6,11, os-version: 10.0], [device: iPad7,2, os-version: 10.0], [device: iPad6,12, os-version: 10.0], [device: iPad4,7, os-version: 9.0], [device: iPad4,4, os-version: 9.0], [device: iPad4,9, os-version: 9.0], [device: iPad6,8, os-version: 9.0], [device: iPad6,3, os-version: 9.0], [device: iPad7,6, os-version: 11.0], [device: iPad7,3, os-version: 10.0], [device: iPad5,4, os-version: 9.0], [device: iPad4,2, os-version: 9.0], [device: iPad5,1, os-version: 9.0], [device: iPad6,7, os-version: 9.0], and [device: iPad7,4, os-version: 10.0]
+App + On Demand Resources size: 41.2 MB compressed, 61.5 MB uncompressed
+App size: 41.2 MB compressed, 61.5 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: RussellMe-AF05F5C3-A975-4C39-AE68-D21A2C3FDC16.ipa
-Supported variant descriptors: [device: iPhone11,8, os-version: 12.2] and [device: iPhone11,8, os-version: 12.0]
-App + On Demand Resources size: 41 MB compressed, 61.3 MB uncompressed
-App size: 41 MB compressed, 61.3 MB uncompressed
+Variant: RussellMe-9B2ED40A-84B0-469E-8D1B-00C429EA0D9E.ipa
+Supported variant descriptors: [device: iPad2,2, os-version: 9.0], [device: iPad2,1, os-version: 9.0], [device: iPad2,3, os-version: 9.0], [device: iPad2,4, os-version: 9.0], [device: iPad2,6, os-version: 9.0], [device: iPad2,5, os-version: 9.0], and [device: iPad2,7, os-version: 9.0]
+App + On Demand Resources size: 41.5 MB compressed, 59.2 MB uncompressed
+App size: 41.5 MB compressed, 59.2 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: RussellMe-C4E9A324-62AC-4875-85C5-5A7FE8BA086A.ipa
-Supported variant descriptors: [device: iPad11,4, os-version: 13.0], [device: iPad8,1, os-version: 13.0], [device: iPad11,2, os-version: 13.0], [device: iPad7,4, os-version: 13.0], [device: iPad8,5, os-version: 13.0], [device: iPad5,3, os-version: 13.0], [device: iPad6,3, os-version: 13.0], [device: iPad6,11, os-version: 13.0], [device: iPad11,3, os-version: 13.0], [device: iPad5,2, os-version: 13.0], [device: iPad8,6, os-version: 13.0], [device: iPad7,11, os-version: 13.0], [device: iPad8,2, os-version: 13.0], [device: iPad5,1, os-version: 13.0], [device: iPad7,1, os-version: 13.0], [device: iPad7,5, os-version: 13.0], [device: iPad5,4, os-version: 13.0], [device: iPad8,7, os-version: 13.0], [device: iPad8,4, os-version: 13.0], [device: iPad6,4, os-version: 13.0], [device: iPad7,2, os-version: 13.0], [device: iPad8,8, os-version: 13.0], [device: iPad7,12, os-version: 13.0], [device: iPad6,8, os-version: 13.0], [device: iPad6,7, os-version: 13.0], [device: iPad7,6, os-version: 13.0], [device: iPad11,1, os-version: 13.0], [device: iPad6,12, os-version: 13.0], [device: iPad7,3, os-version: 13.0], and [device: iPad8,3, os-version: 13.0]
-App + On Demand Resources size: 41 MB compressed, 61.3 MB uncompressed
-App size: 41 MB compressed, 61.3 MB uncompressed
+Variant: RussellMe-ADE5C238-F8EC-487B-AB45-5461D2F5C289.ipa
+Supported variant descriptors: [device: iPad3,3, os-version: 9.0], [device: iPad3,6, os-version: 9.0], [device: iPad3,1, os-version: 9.0], [device: iPad3,4, os-version: 9.0], [device: iPad3,2, os-version: 9.0], and [device: iPad3,5, os-version: 9.0]
+App + On Demand Resources size: 41.5 MB compressed, 59.2 MB uncompressed
+App size: 41.5 MB compressed, 59.2 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: RussellMe-C503BD1E-FC6C-4D09-8C7E-FB84CE6B633A.ipa
-Supported variant descriptors: [device: iPad4,9, os-version: 12.2], [device: iPad7,6, os-version: 12.0], [device: iPad7,5, os-version: 12.0], [device: iPad8,6, os-version: 12.0], [device: iPad6,11, os-version: 12.2], [device: iPad7,2, os-version: 12.2], [device: iPad7,2, os-version: 12.0], [device: iPad8,1, os-version: 12.2], [device: iPad6,3, os-version: 12.0], [device: iPad5,2, os-version: 12.2], [device: iPad6,8, os-version: 12.2], [device: iPad4,5, os-version: 12.2], [device: iPad5,3, os-version: 12.0], [device: iPad4,1, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad8,3, os-version: 12.0], [device: iPad8,5, os-version: 12.0], [device: iPad4,9, os-version: 12.0], [device: iPad8,7, os-version: 12.2], [device: iPad8,1, os-version: 12.0], [device: iPad7,3, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPad4,4, os-version: 12.2], [device: iPad4,7, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPad8,5, os-version: 12.2], [device: iPad8,6, os-version: 12.2], [device: iPad4,7, os-version: 12.0], [device: iPad11,2, os-version: 12.2], [device: iPad5,3, os-version: 12.2], [device: iPad6,7, os-version: 12.2], [device: iPad11,3, os-version: 12.2], [device: iPad8,4, os-version: 12.0], [device: iPad8,2, os-version: 12.0], [device: iPad11,4, os-version: 12.2], [device: iPad8,3, os-version: 12.2], [device: iPad4,2, os-version: 12.2], [device: iPad4,3, os-version: 12.2], [device: iPad8,7, os-version: 12.0], [device: iPad6,4, os-version: 12.0], [device: iPad5,1, os-version: 12.2], [device: iPad6,12, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad4,4, os-version: 12.0], [device: iPad7,1, os-version: 12.0], [device: iPad6,7, os-version: 12.0], [device: iPad4,1, os-version: 12.0], [device: iPad6,11, os-version: 12.0], [device: iPad8,8, os-version: 12.0], [device: iPad4,8, os-version: 12.0], [device: iPad7,4, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad8,8, os-version: 12.2], [device: iPad7,3, os-version: 12.0], [device: iPad4,5, os-version: 12.0], [device: iPad4,6, os-version: 12.0], [device: iPad5,1, os-version: 12.0], [device: iPad6,12, os-version: 12.0], [device: iPad4,2, os-version: 12.0], [device: iPad8,2, os-version: 12.2], [device: iPad6,3, os-version: 12.2], [device: iPad5,4, os-version: 12.2], [device: iPad4,8, os-version: 12.2], [device: iPad7,1, os-version: 12.2], [device: iPad4,3, os-version: 12.0], [device: iPad5,4, os-version: 12.0], [device: iPad5,2, os-version: 12.0], [device: iPad7,5, os-version: 12.2], [device: iPad6,8, os-version: 12.0], and [device: iPad7,4, os-version: 12.0]
-App + On Demand Resources size: 41 MB compressed, 61.3 MB uncompressed
-App size: 41 MB compressed, 61.3 MB uncompressed
+Variant: RussellMe-C08A6A2A-A3C7-4A98-87FF-A72FF15AA08B.ipa
+Supported variant descriptors: [device: iPad7,11, os-version: 13.0], [device: iPad11,3, os-version: 13.0], [device: iPad8,8, os-version: 13.0], [device: iPad11,4, os-version: 13.0], [device: iPad8,5, os-version: 13.0], [device: iPad8,7, os-version: 13.0], [device: iPad5,4, os-version: 13.0], [device: iPad7,12, os-version: 13.0], [device: iPad7,6, os-version: 13.0], [device: iPad8,4, os-version: 13.0], [device: iPad11,1, os-version: 13.0], [device: iPad6,7, os-version: 13.0], [device: iPad6,12, os-version: 13.0], [device: iPad8,6, os-version: 13.0], [device: iPad7,3, os-version: 13.0], [device: iPad6,11, os-version: 13.0], [device: iPad6,4, os-version: 13.0], [device: iPad6,3, os-version: 13.0], [device: iPad5,3, os-version: 13.0], [device: iPad7,5, os-version: 13.0], [device: iPad7,2, os-version: 13.0], [device: iPad11,2, os-version: 13.0], [device: iPad8,1, os-version: 13.0], [device: iPad7,4, os-version: 13.0], [device: iPad8,3, os-version: 13.0], [device: iPad7,1, os-version: 13.0], [device: iPad5,1, os-version: 13.0], [device: iPad5,2, os-version: 13.0], [device: iPad8,2, os-version: 13.0], and [device: iPad6,8, os-version: 13.0]
+App + On Demand Resources size: 41.2 MB compressed, 61.5 MB uncompressed
+App size: 41.2 MB compressed, 61.5 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: RussellMe-D530BFF9-0109-43D6-96F6-0DD970B4A395.ipa
-Supported variant descriptors: [device: iPhone9,3, os-version: 13.0], [device: iPhone10,4, os-version: 13.0], [device: iPhone10,1, os-version: 13.0], [device: iPhone8,1, os-version: 13.0], [device: iPhone8,4, os-version: 13.0], [device: iPhone9,1, os-version: 13.0], and [device: iPod9,1, os-version: 13.0]
-App + On Demand Resources size: 41 MB compressed, 61.3 MB uncompressed
-App size: 41 MB compressed, 61.3 MB uncompressed
+Variant: RussellMe-C0D76155-41C7-4772-8AE6-5D2A78C5D114.ipa
+Supported variant descriptors: [device: iPhone10,4, os-version: 12.2], [device: iPhone8,1, os-version: 12.0], [device: iPhone6,2, os-version: 12.2], [device: iPod7,1, os-version: 12.0], [device: iPhone9,3, os-version: 12.2], [device: iPhone6,2, os-version: 12.0], [device: iPhone10,4, os-version: 12.0], [device: iPhone9,3, os-version: 12.0], [device: iPod7,1, os-version: 12.2], [device: iPhone9,1, os-version: 12.2], [device: iPod9,1, os-version: 12.2], [device: iPhone8,4, os-version: 12.2], [device: iPhone8,1, os-version: 12.2], [device: iPhone7,2, os-version: 12.2], [device: iPhone10,1, os-version: 12.2], [device: iPhone10,1, os-version: 12.0], [device: iPhone8,4, os-version: 12.0], [device: iPhone6,1, os-version: 12.2], [device: iPhone9,1, os-version: 12.0], [device: iPhone7,2, os-version: 12.0], and [device: iPhone6,1, os-version: 12.0]
+App + On Demand Resources size: 41.2 MB compressed, 61.5 MB uncompressed
+App size: 41.2 MB compressed, 61.5 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: RussellMe-E7F97DBE-C96E-4D57-B417-A4754C8F1232.ipa
-Supported variant descriptors: [device: iPhone7,1, os-version: 9.0], [device: iPhone10,6, os-version: 11.0], [device: iPhone9,4, os-version: 10.0], [device: iPhone8,2, os-version: 9.0], [device: iPhone9,2, os-version: 10.0], [device: iPhone10,5, os-version: 11.0], [device: iPhone10,3, os-version: 11.0], and [device: iPhone10,2, os-version: 11.0]
-App + On Demand Resources size: 41 MB compressed, 61.3 MB uncompressed
-App size: 41 MB compressed, 61.3 MB uncompressed
+Variant: RussellMe-E24223F6-A51A-4E15-B776-CB59DEB37B1D.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 13.0] and [device: iPhone12,1, os-version: 13.0]
+App + On Demand Resources size: 41.2 MB compressed, 61.5 MB uncompressed
+App size: 41.2 MB compressed, 61.5 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: RussellMe-FD5857B8-E3F2-45EF-A5F0-EC90B671CFE3.ipa
-Supported variant descriptors: [device: iPhone5,2, os-version: 9.0], [device: iPhone5,4, os-version: 9.0], [device: iPhone5,1, os-version: 9.0], [device: iPhone5,3, os-version: 9.0], [device: iPod5,1, os-version: 9.0], and [device: iPhone4,1, os-version: 9.0]
-App + On Demand Resources size: 41.3 MB compressed, 58.9 MB uncompressed
-App size: 41.3 MB compressed, 58.9 MB uncompressed
+Variant: RussellMe-F56577C6-27ED-4D2C-A470-0D93961BE828.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 13.0], [device: iPhone9,1, os-version: 13.0], [device: iPhone9,3, os-version: 13.0], [device: iPhone10,4, os-version: 13.0], [device: iPhone8,1, os-version: 13.0], [device: iPhone10,1, os-version: 13.0], and [device: iPod9,1, os-version: 13.0]
+App + On Demand Resources size: 41.2 MB compressed, 61.5 MB uncompressed
+App size: 41.2 MB compressed, 61.5 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
 Variant: RussellMe.ipa
 Supported variant descriptors: Universal
-App + On Demand Resources size: 50.7 MB compressed, 86.6 MB uncompressed
-App size: 50.7 MB compressed, 86.6 MB uncompressed
+App + On Demand Resources size: 50.9 MB compressed, 86.9 MB uncompressed
+App size: 50.9 MB compressed, 86.9 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
